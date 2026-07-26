@@ -1,6 +1,6 @@
 cask "lidawake" do
-  version "1.1.1"
-  sha256 "3a6ff5115b55127bc4362d4b91266c366e06e085eb6b8e7ab91399c2e89c49e6"
+  version "1.1.2"
+  sha256 "52096064bf3a5f221db21b63a90675a9ae901f4a3d46f2b2d6470b856056f86e"
 
   url "https://github.com/zayco-it/lidawake/releases/download/v#{version}/lidawake-#{version}.dmg",
       verified: "github.com/zayco-it/lidawake/"
