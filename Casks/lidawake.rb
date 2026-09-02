@@ -5,7 +5,7 @@ cask "lidawake" do
   url "https://github.com/zayco-it/lidawake/releases/download/v#{version}/lidawake-#{version}.dmg",
       verified: "github.com/zayco-it/lidawake/"
   name "lidawake"
-  desc "Keep your Mac awake with the lid closed"
+  desc "Keep your Mac awake with the lid closed, with automatic safety cut-offs"
   homepage "https://zayco.it/lidawake/"
 
   livecheck do
